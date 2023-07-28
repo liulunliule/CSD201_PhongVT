@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dd7dc49-f860-4a1d-9525-23d887ea000c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../LAB211/Assesement/1/Hospital Management/src/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../LAB211/Assesement/1/Hospital Management/src/ult/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../LAB211/Assesement/1/Hospital Management/src/ult/Output.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/MAD101/Discrete Mathematics-Exercises.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/MAD101/Slide/01-Propositional Logic .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/MAD101/Slide/02-Basic Structures .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/MAD101/Slide/04-Induction and Recursion.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/MAD101/Slide/05-Counting.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/MAD101/Slide/09- Graphs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/MAD101/Slide/10 - Trees.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/MAD101/Slide/3- Algorithms- Integers.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/NWC203c/learning_source/OneDrive_1_1-11-2023.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Labs/Lab1_report_NguyenXuanDat_SE172264.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Labs/Labs_Report_NguyenXuanDat_SE172264.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Labs/OSG202_Lab01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Labs/OSG202_Lab02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Labs/OSG202_Lab03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Labs/OSG202_Lab04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Labs/lab2_report_NguyenXuanDat_SE172264.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Labs/lab3_report_NguyenXuanDat_SE172264.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Labs/lab4_report_NguyenXuanDat_SE172264.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/02. OS_Concepts.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/03. OS_Structure.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Chapter-04-OS.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Chapter-05-IO.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Chapter-06-OS.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Chapter07-VirtualizationAndTheCloud.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Chapter08-MultipleProcessorSystems.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Chapter09-Security.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Chapter10-UNIXandLinuxAndAndroid.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Chapter11-Windows8.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Chapter12-OperatingSystemDesign.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Process and Threads/06. Processes.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Process and Threads/07. Threads.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Process and Threads/08. IPC.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Process and Threads/09. Scheduled.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/OSG202/Slides/Process and Threads/10. Scheduled_Classic.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/CircleManagement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/out/production/CircleManagement/circlemanagement/CircleManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/out/production/CircleManagement/data/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/src/circlemanagement/CircleManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CircleManagement/src/data/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CreatureManagement/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CreatureManagement/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/CreatureManagement/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/DemoThrows.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/src/demothrows/MyLib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/DemoThrows/src/demothrows/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/FPTU.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/out/production/FPTU/data/Campus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/out/production/FPTU/data/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/out/production/FPTU/data/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/out/production/FPTU/data/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/out/production/FPTU/fptstudenttmanagement/FPTStudenttManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/out/production/FPTU/fptstudenttmanagement/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/src/data/Campus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/src/data/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/src/data/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/src/data/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/src/fptstudenttmanagement/FPTStudenttManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/FPTU/src/fptstudenttmanagement/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/Fraction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/out/production/Fraction/A/Fraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/out/production/Fraction/B/tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/src/A/Fraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Fraction/src/B/tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/HelloWorld/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/HelloWorld/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/HelloWorld/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/HelloWorld/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/HelloWorld/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/HelloWorld/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/HelloWorld/src/helloworld/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/ItemManagement - Copy/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/ItemManagement/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/ItemManagement/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/ItemManagement/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/MyLib/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/MyLib/MyLib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/MyLib/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/MyLib/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/MyLib/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/MyLib/src/mylib/MyLib.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/.idea/libraries/PetManagement.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/Pet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/out/production/Pet/data/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/out/production/Pet/petManagement/tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/src/data/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/Pet/src/petManagement/tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/learnSimpleDateFormat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/out/production/learnSimpleDateFormat/learnsimpleDateFormat/LearnSimpleDateFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/SimpleDateFormat/src/learnsimpleDateFormat/LearnSimpleDateFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/StaffManagementV2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/out/production/StaffManagementV2/data/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/out/production/StaffManagementV2/data/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/out/production/StaffManagementV2/staffmanagementv2/StaffManagementV2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/out/production/StaffManagementV2/staffmanagementv2/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/src/data/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/src/data/Staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/src/staffmanagementv2/StaffManagementV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/Code_Result/StaffManagementV2/src/staffmanagementv2/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/MyLib/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/MyLib/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/MyLib/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/MyLib/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/MyLib/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/MyLib/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/Develop a program to manage SmartPhone.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/W3plus.PhoneManagement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/out/production/W3plus.PhoneManagement/data/OS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/out/production/W3plus.PhoneManagement/data/PIN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/out/production/W3plus.PhoneManagement/data/SmartPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/src/data/OS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/src/data/PIN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W3plus.PhoneManagement/src/data/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/W5.OrganizationManager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/out/production/W5.OrganizationManager/Part2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/out/production/W5.OrganizationManager/dto/BeeColony.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/out/production/W5.OrganizationManager/dto/Colony.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/out/production/W5.OrganizationManager/dto/FPTUniversity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/out/production/W5.OrganizationManager/dto/Organization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/out/production/W5.OrganizationManager/dto/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/out/production/W5.OrganizationManager/dto/University.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/out/production/W5.OrganizationManager/gui/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/out/production/W5.OrganizationManager/~$Part2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/src/Part2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/src/dto/BeeColony.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/src/dto/Colony.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/src/dto/FPTUniversity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/src/dto/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/src/dto/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/src/dto/University.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/W5.OrganizationManager/src/gui/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/out/production/WorkShop/main/Part1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/out/production/WorkShop/main/Part2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/out/production/WorkShop/main/Part3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/src/main/Part1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/src/main/Part2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS1/src/main/Part3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/WS2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/out/production/WS2/ws2/WS2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/src/main/Part1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/src/main/Part2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS2/src/main/Part2_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/WS3.CarManager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/out/production/WS3.CarManager/CarManager/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/out/production/WS3.CarManager/CarManager/Part3/data/Guitar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/out/production/WS3.CarManager/CarManager/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/out/production/WS3.CarManager/Part2_UML.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/out/production/WS3.CarManager/Part3/data/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/out/production/WS3.CarManager/Part3/main/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/src/.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/src/Part1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/src/Part1/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/src/Part2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/src/Part3/data/Guitar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/src/Part3/data/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/src/Part3/main/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS3.CarManager/src/Part4.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/WS4.ItemManager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Painting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Statue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Vase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/gui/Antique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/util/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/~$Part2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/src/Part1/dto/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/src/Part1/dto/Painting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/src/Part1/dto/Statue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/src/Part1/dto/Vase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/src/Part1/gui/Antique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/src/Part1/util/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS4.ItemManager/src/Part2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/WS6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/out/production/WS6/data/Inputter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/out/production/WS6/data/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/out/production/WS6/data/StudentList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/out/production/WS6/dto/StudentManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/out/production/WS6/ui/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/src/data/Inputter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/src/data/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/src/data/StudentList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/src/dto/StudentManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WS6/src/ui/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/PRO192/WorkShop/WorkShop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22 - 2/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Term2_Java/SSG104/Source_Question/Progress Test 1 SP22/9.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Q84jtjsiE0ym8EWVrkRTpeiYL2" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Reverting in main",
+    "last_opened_file_path": "D:/Learning-documents/Term3/CSD201/1. List Data Structures_4!/Lab1/StringSinglyLinkedList",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="StringSinglyLinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="StringSinglyLinkedList" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dd7dc49-f860-4a1d-9525-23d887ea000c" name="Changes" comment="" />
+      <created>1684722012488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684722012488</updated>
+    </task>
+    <servers />
+  </component>
+</project>

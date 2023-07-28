@@ -1,0 +1,36 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package Q2;
+
+public class Main {
+    public static void main(String[] args) {
+        char [] x = {'A', 'C', 'F', 'B', 'K', 'N', 'Y', 'Y'};
+        BSTree tree = new BSTree();
+        for(int i=0; i<x.length; i++) tree.insert(x[i]+"");
+        tree.preOrder(tree.root);//60 50 40 55 90 80 100
+        System.out.println("");
+        tree.inOrder(tree.root);//40 50 55 60 80 90 100
+        System.out.println("");
+        tree.BFT(tree.root);
+        System.out.println("");
+        System.out.println("Count: " + tree.size());
+//        tree.count();
+
+/*Part 2___________________________________________________________________*/
+//        int [] x = {44, 17, 78, 32, 50, 88, 48, 62, 54};
+//        BSTree tree = new BSTree();
+//        for(int i = 0; i < x.length; i++) tree.insert(x[i]);
+//        tree.BFT(tree.root);
+//        System.out.println("");
+//        tree.balance(tree.root);
+//        tree.BFT(tree.root);
+//        System.out.println("");
+
+/*Part 3___________________________________________________________________*/
+// TODO code application logic here
+    }   
+}
